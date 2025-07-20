@@ -1,1 +1,4 @@
 /data/*
+
+# Ignore .csv files
+*.csv
